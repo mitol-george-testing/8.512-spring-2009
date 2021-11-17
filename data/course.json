@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0c24707a-4a5d-edef-c32f-842b95f32139"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Theory of Solids II",
+  "course_description": "This is the second term of a theoretical treatment of the physics of solids. Topics covered include linear response theory; the physics of disorder; superconductivity; the local moment and itinerant magnetism; the Kondo problem and Fermi liquid theory.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.512",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
